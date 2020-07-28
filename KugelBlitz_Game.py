@@ -192,7 +192,7 @@ def Dialogue_7():
     time.sleep(2)
     print("""
     Suddenly the capsule starts to accelerate... Faster and faster, till you fell weightless.
-    Now you completely understant!""")
+    Now you completely understand!""")
     time.sleep(2)
     print("""
     Or do you? \n\n""")
@@ -535,13 +535,13 @@ while True:
         print("""    Just as you were about to reach the wormhole leading to your home planet, a spaceship comes towards you.
     The weird thing is that the spaceship looks familiar. Wait, isn’t that your spaceship?  \n """)
         time.sleep(2)
-        print(".")
+        print("        .")
         time.sleep(2)
-        print(".")
+        print("        .")
         time.sleep(2)
-        print(".")
+        print("        .")
         time.sleep(2)
-        print(" C R A S H ")
+        print("        C R A S H ")
         time.sleep(3)
         print("""    Lucky, you were able to change your trajectory and prevent a head on collision.
     But none-the-less your spaceship has faced some damaged. You exit the wormhole to try and stabilize your ship.\n""")
@@ -633,7 +633,8 @@ end = time.time()
 Total_Time = end-start
 Update_Time(Total_Time)
 time.sleep(1)
-print("""          A wormhole is speculated to have been created on Vignar.
+print("""
+          A wormhole is speculated to have been created on Vignar.
           You and your co-pilot are sent to investigate.
           Good luck!!""")
-time.sleep(10)
+time.sleep(30)
