@@ -231,7 +231,8 @@ while True:
          (Hint: Answer in Hz)"""
         Correct_Answer = "29565 Hz"
         Dialogue = """\n        "You are on the heavenly planet of Vignar, in the year 7093.
-            We are the survivors of the Great War which happened here.
+            A Great War which happened here. We are investigators amongst the people who survived.
+            After what happened here, we need faith to carry on living.
             There exists a temple, north from here. The answer to your questions lie there.
             Only the worthy can enter. Good luck."  \n"""
         print("""    You and your co-pilot decide to look around to find ANY remains of life.
@@ -311,7 +312,8 @@ while True:
         The bulb in the circuit start to glow. You hear a gears turning inside the well.
         A capsule appears in the well. It looks very familiar but you can’t make out what it is. \n"""
         print("""    You enter a dusty temple, full of cobwebs.
-    The insides of the temple look similar to an abandoned facility. You see a skeleton on the floor. You think, """)
+    The insides of the temple look similar to an abandoned facility. There is a well there too.
+    You see a skeleton on the floor. You think, """)
         time.sleep(1)
         print("""\n          "The outcome of the war huh? I wonder what this facility was used for." \n""")
         time.sleep(2)
@@ -354,15 +356,16 @@ while True:
     The capsule closes shut behind you and you begin to descend faster and faster till you feel weightless. \n""")
         time.sleep(2)
         print("""    You seem to come across some kind of highway, made out of stars? It leads to various paths.
+    Wait... Is this a wormhole??
     Before you can make sense of anything, you collapse.\n""")
-        time.sleep(2)
+        time.sleep(3)
         print("""    You wake up after a while to find yourself in the temple. But something seems strange.
     The temple seems relatively new. \n""")
         time.sleep(2)
         print("""    You go out of the temple to see the planet full of life. People are running here and there.
     They seem to be distressed. The temple seems to be marked with yellow tape and “do not enter” signs all around it. \n""")
         time.sleep(2)
-        print("""    You know what’s happening. You’ve come into the past. A time just before the Great War.
+        print("""    You know what’s happening. You’ve come back into the past. A time just before the Great War.
     You hear people screaming, """)
         time.sleep(1)
         print("\n        \"The aliens are here! Run!\" \n")
@@ -400,12 +403,18 @@ while True:
     You go outside. The air is fresh, you are encompassed by greenery, the planet seems calm and relaxed.
     There is no sign of human life what-so-ever.\n""")
         time.sleep(2)
+        print("""    Your bike is inside the temple, but it looks broken
+    You move to see your co-pilots corpse in the temple, or rather just his skeleton.
+        "Sorry friend"\n""")
+        time.sleep(2)
         print("""    Suddenly, you hear something rustling in the forest. Something huge.
     You run back inside the temple to take cover. Just then a cluster of spiders,
     about 10 feet tall, walked out into the open. """)
         time.sleep(2)
         print("""\n        "If these creatures have evolved to be like this, I must be around a thousand years ahead in the future.
-        I need to get back" \n""")
+        I need to get back
+        Wait... If I'm years into the future, how can his corpse be here? And how is my bike still here?
+        In fact, how is the whole lab here? Did the whole place travel through time??"  \n""")
         time.sleep(1)
         print("""    You start to panic. You try to run towards the capsule, but you trip on something and fall.""")
         time.sleep(1)
@@ -413,7 +422,8 @@ while True:
         time.sleep(1)
         print("""    You know you messed up. You know they heard you.
     Without looking back, you start to run. You enter the temple and notice there are two paths in front of you.
-    One which led somewhere inside the temple and one going straight down like a fall of doom. \n""")
+    One which led somewhere inside the temple and one going straight down like a fall of doom.
+    Your bike won't start. And there are so many paths in front of you. \n""")
         time.sleep(2)
         print("  What do you do? ([go inside] or [go down]) \n")
         move = ''
@@ -477,9 +487,8 @@ while True:
     Surprisingly, this time the capsule doesn’t disappear.\n""")
         time.sleep(2)
         print("""    You notice your surroundings. You are in the temple, but this time it looks more like a laboratory.
-        "How is this possible?"
-    You see your co-pilots corpse in the temple, or rather just his skeleton.
-        "Sorry friend"\n""")
+        "How is this possible?"  \n
+    You try to look for answers""")
         time.sleep(2)
         print("""    Then it strikes you. This isn’t a temple! This is one of MEMES labs!
     You notice computers collecting data about the planet and its surroundings.
@@ -541,7 +550,7 @@ while True:
         time.sleep(2)
         print("        .")
         time.sleep(2)
-        print("        C R A S H ")
+        print("        C R A S H  \n")
         time.sleep(3)
         print("""    Lucky, you were able to change your trajectory and prevent a head on collision.
     But none-the-less your spaceship has faced some damaged. You exit the wormhole to try and stabilize your ship.\n""")
