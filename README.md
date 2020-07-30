@@ -1,4 +1,4 @@
-# Physics_Game_Python
+# StuckInTime_Game_Python
 This is year 6420, an era where science has crossed all borders and all miracles ever imagined are possible. The Avasapiens of the hyperloop galaxy are the most advanced species. They have achieved multi-planet capturing, under an organisation which used to design and execute all the space programs and made other planets habitable. The organisation was called “Multiplanet Environment Manipulation Enterprises and Society” in short “MEMES”. 
 They managed to establish habitat on two planets - Xenerth and Vignar - in their galaxy and connected the planets through a man-made wormhole, present just outside their atmospheres. However, the program was shut down due to political tension. The planets flourished further, interacting with each other from time to time.
 After the shutdown of the space program, the scientists of MEMES started noticing some strange signals being sent by Vignar and speculated the existence of another wormhole. This posed a threat to the planet as, maybe, another species was trying to attack it. 
